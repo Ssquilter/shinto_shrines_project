@@ -676,18 +676,19 @@ const shrines = [
     },
     image:
       'https://www.travelcaffeine.com/wp-content/uploads/2020/03/hirano-shrine-cherry-blossom-hanami-sakura-season-kyoto-japan-torii-gate-sunburst.jpg'
-  }
+  },
   {
-    shrineName: "Zeniarai Benzaiten Ugafuku Shrine",
-    summary: "A shrine in Kamakura where visitors wash money in sacred spring water, believing it will double their fortune.",
+    shrineName: 'Zeniarai Benzaiten Ugafuku Shrine',
+    summary:
+      'A shrine in Kamakura where visitors wash money in sacred spring water, believing it will double their fortune.',
     location: {
-      city: "Kamakura",
-      prefecture: "Kanagawa Prefecture"
+      city: 'Kamakura',
+      prefecture: 'Kanagawa Prefecture'
     },
-    yearBuilt: "1185 AD",
+    yearBuilt: '1185 AD',
     typeOfShrine: {
-      shrineCategory: "Wealth Shrine",
-      enshrinedKami: "Benzaiten"
+      shrineCategory: 'Wealth Shrine',
+      enshrinedKami: 'Benzaiten'
     },
     architecturalFeatures: {
       toriiGate: true,
@@ -696,30 +697,32 @@ const shrines = [
       caveSpring: true
     },
     religionAndCulture: {
-      annualFestivals: ["Spring Money-Washing Festival"],
+      annualFestivals: ['Spring Money-Washing Festival'],
       ritualPractices: [
-        "Washing money in sacred water",
-        "Wealth and prosperity prayers"
+        'Washing money in sacred water',
+        'Wealth and prosperity prayers'
       ],
-      artifacts: ["Sacred washing baskets"],
+      artifacts: ['Sacred washing baskets'],
       folklore: [
         "Said to double the money washed in the shrine's spring",
-        "Linked to Minamoto no Yoritomo’s vision"
+        'Linked to Minamoto no Yoritomo’s vision'
       ]
     },
-    image: "https://i0.wp.com/www.japanbyweb.com/wp-content/uploads/2016/09/Kamakura-Zeniarai-Benzaiten.jpg?fit=1600%2C1058&ssl=1"
+    image:
+      'https://i0.wp.com/www.japanbyweb.com/wp-content/uploads/2016/09/Kamakura-Zeniarai-Benzaiten.jpg?fit=1600%2C1058&ssl=1'
   },
   {
-    shrineName: "Mitake Shrine",
-    summary: "A sacred mountain shrine with a long history of wolf worship, popular among hikers and pet owners seeking blessings.",
+    shrineName: 'Mitake Shrine',
+    summary:
+      'A sacred mountain shrine with a long history of wolf worship, popular among hikers and pet owners seeking blessings.',
     location: {
-      city: "Ome",
-      prefecture: "Tokyo Prefecture"
+      city: 'Ome',
+      prefecture: 'Tokyo Prefecture'
     },
-    yearBuilt: "Ancient origins",
+    yearBuilt: 'Ancient origins',
     typeOfShrine: {
-      shrineCategory: "Mountain Shrine",
-      enshrinedKami: "Ōguchi-no-Magami (Wolf Deity)"
+      shrineCategory: 'Mountain Shrine',
+      enshrinedKami: 'Ōguchi-no-Magami (Wolf Deity)'
     },
     architecturalFeatures: {
       toriiGate: true,
@@ -728,30 +731,32 @@ const shrines = [
       mountainTrail: true
     },
     religionAndCulture: {
-      annualFestivals: ["Mitake Autumn Festival"],
+      annualFestivals: ['Mitake Autumn Festival'],
       ritualPractices: [
-        "Wolf protection prayers",
-        "Hiking purification rituals"
+        'Wolf protection prayers',
+        'Hiking purification rituals'
       ],
-      artifacts: ["Wolf statues"],
+      artifacts: ['Wolf statues'],
       folklore: [
-        "Said to be guarded by sacred wolves",
-        "Pilgrims believe the wolves protect from evil spirits"
+        'Said to be guarded by sacred wolves',
+        'Pilgrims believe the wolves protect from evil spirits'
       ]
     },
-    image: "https://totaljapanexperience.wordpress.com/wp-content/uploads/2016/04/2657990145_a7f2081a4c_b.jpg?w=640"
+    image:
+      'https://totaljapanexperience.wordpress.com/wp-content/uploads/2016/04/2657990145_a7f2081a4c_b.jpg?w=640'
   },
   {
-    shrineName: "Tottori Sand Dunes Shrine",
-    summary: "A hidden desert shrine located within Japan’s only sand dunes, offering prayers for travel safety and endurance.",
+    shrineName: 'Tottori Sand Dunes Shrine',
+    summary:
+      'A hidden desert shrine located within Japan’s only sand dunes, offering prayers for travel safety and endurance.',
     location: {
-      city: "Tottori",
-      prefecture: "Tottori Prefecture"
+      city: 'Tottori',
+      prefecture: 'Tottori Prefecture'
     },
-    yearBuilt: "Unknown",
+    yearBuilt: 'Unknown',
     typeOfShrine: {
-      shrineCategory: "Desert Shrine",
-      enshrinedKami: "Susanoo-no-Mikoto"
+      shrineCategory: 'Desert Shrine',
+      enshrinedKami: 'Susanoo-no-Mikoto'
     },
     architecturalFeatures: {
       toriiGate: true,
@@ -760,30 +765,32 @@ const shrines = [
       sandPath: true
     },
     religionAndCulture: {
-      annualFestivals: ["Sun and Sand Ceremony"],
+      annualFestivals: ['Sun and Sand Ceremony'],
       ritualPractices: [
-        "Blessings for endurance",
-        "Offerings of sand sculptures"
+        'Blessings for endurance',
+        'Offerings of sand sculptures'
       ],
-      artifacts: ["Desert torii gate"],
+      artifacts: ['Desert torii gate'],
       folklore: [
-        "Shrine remains buried and uncovered by shifting sand",
-        "Said to give strength to travelers"
+        'Shrine remains buried and uncovered by shifting sand',
+        'Said to give strength to travelers'
       ]
     },
-    image: "https://www.kanpai-japan.com/sites/default/files/styles/og/public/uploads/2020/07/tottori-sand-museum-6.jpg"
+    image:
+      'https://www.kanpai-japan.com/sites/default/files/styles/og/public/uploads/2020/07/tottori-sand-museum-6.jpg'
   },
   {
-    shrineName: "Atago Shrine",
-    summary: "A shrine on top of Tokyo’s highest natural hill, known for its steep stairway challenge called the ‘Stairs of Success’.",
+    shrineName: 'Atago Shrine',
+    summary:
+      'A shrine on top of Tokyo’s highest natural hill, known for its steep stairway challenge called the ‘Stairs of Success’.',
     location: {
-      city: "Tokyo",
-      prefecture: "Tokyo Prefecture"
+      city: 'Tokyo',
+      prefecture: 'Tokyo Prefecture'
     },
-    yearBuilt: "1603",
+    yearBuilt: '1603',
     typeOfShrine: {
-      shrineCategory: "Success Shrine",
-      enshrinedKami: "Homusubi-no-Mikoto (Fire Deity)"
+      shrineCategory: 'Success Shrine',
+      enshrinedKami: 'Homusubi-no-Mikoto (Fire Deity)'
     },
     architecturalFeatures: {
       toriiGate: true,
@@ -792,30 +799,32 @@ const shrines = [
       steepStairs: true
     },
     religionAndCulture: {
-      annualFestivals: ["Fire Protection Festival"],
+      annualFestivals: ['Fire Protection Festival'],
       ritualPractices: [
-        "Climbing the ‘Stairs of Success’",
-        "Fire safety blessings"
+        'Climbing the ‘Stairs of Success’',
+        'Fire safety blessings'
       ],
-      artifacts: ["Firefighter amulets"],
+      artifacts: ['Firefighter amulets'],
       folklore: [
-        "Samurai who climbed the stairs on horseback was rewarded by the shogun",
-        "Said to bring career success to those who climb the stairs"
+        'Samurai who climbed the stairs on horseback was rewarded by the shogun',
+        'Said to bring career success to those who climb the stairs'
       ]
     },
-    image: "https://japanfreak.tokyo/wp-content/uploads/2017/09/TOKYO-Atago-Shrine-Stone-staircase.png"
+    image:
+      'https://japanfreak.tokyo/wp-content/uploads/2017/09/TOKYO-Atago-Shrine-Stone-staircase.png'
   },
   {
-    shrineName: "Nageiredo Hall",
-    summary: "Japan’s most ‘dangerous’ shrine, built into a vertical cliffside, accessible only by a hazardous climb.",
+    shrineName: 'Nageiredo Hall',
+    summary:
+      'Japan’s most ‘dangerous’ shrine, built into a vertical cliffside, accessible only by a hazardous climb.',
     location: {
-      city: "Misasa",
-      prefecture: "Tottori Prefecture"
+      city: 'Misasa',
+      prefecture: 'Tottori Prefecture'
     },
-    yearBuilt: "Unknown (ancient)",
+    yearBuilt: 'Unknown (ancient)',
     typeOfShrine: {
-      shrineCategory: "Cliff Shrine",
-      enshrinedKami: "Kannon (Bodhisattva of Mercy)"
+      shrineCategory: 'Cliff Shrine',
+      enshrinedKami: 'Kannon (Bodhisattva of Mercy)'
     },
     architecturalFeatures: {
       toriiGate: false,
@@ -824,18 +833,19 @@ const shrines = [
       cliffsideBuilding: true
     },
     religionAndCulture: {
-      annualFestivals: ["Sacred Mountain Pilgrimage"],
+      annualFestivals: ['Sacred Mountain Pilgrimage'],
       ritualPractices: [
-        "Spiritual endurance test",
-        "Offering pebbles at the summit"
+        'Spiritual endurance test',
+        'Offering pebbles at the summit'
       ],
-      artifacts: ["Cliffside temple structures"],
+      artifacts: ['Cliffside temple structures'],
       folklore: [
-        "Said to have been built overnight by monks using magic",
-        "Only the truly devoted can complete the dangerous hike"
+        'Said to have been built overnight by monks using magic',
+        'Only the truly devoted can complete the dangerous hike'
       ]
     },
-    image: "https://www.tokyoweekender.com/wp-content/uploads/2019/05/Tottori-Prefecture-Mount-Mitoku-featured-image.jpg"
+    image:
+      'https://www.tokyoweekender.com/wp-content/uploads/2019/05/Tottori-Prefecture-Mount-Mitoku-featured-image.jpg'
   }
 ]
-
+export default shrines

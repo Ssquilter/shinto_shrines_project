@@ -1,6 +1,11 @@
 import './App.css'
+import ShrineList from './components/ShrineList'
 
-const App = () => {
-  return <></>
+function App() {
+  return (
+    <div className="flex-row">
+      <ShrineList />
+    </div>
+  )
 }
 export default App
