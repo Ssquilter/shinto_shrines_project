@@ -326,5 +326,516 @@ const shrines = [
     },
     image:
       'https://article-image.travel.navitime.jp/img/NTJtrvsp0070-en/is02.jpg'
+  },
+
+  {
+    shrineName: 'Itsukushima Shrine',
+    summary:
+      "Famous for its 'floating' torii gate, appearing to float on water during high tide.",
+    location: {
+      city: 'Hatsukaichi',
+      prefecture: 'Hiroshima Prefecture'
+    },
+    yearBuilt: '593 AD',
+    typeOfShrine: {
+      shrineCategory: 'Island Shrine',
+      enshrinedKami: 'Ichikishima-hime-no-mikoto'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Kangen-sai Festival'],
+      ritualPractices: ['Boat processions', 'Music and dance performances'],
+      artifacts: ['Heike Nokyo (Sutras dedicated by the Taira clan)'],
+      folklore: [
+        'Believed to be the dwelling place of deities',
+        'Site where Taira no Kiyomori prayed for prosperity'
+      ]
+    },
+    image:
+      'https://res.cloudinary.com/jnto/image/upload/w_1080,h_756,c_fill,f_auto,fl_lossy,q_60/v1/media/filer_public/0b/34/0b34b10e-970e-4886-b484-6038871b83ca/itsukushima_shrine_pemo3k'
+  },
+  {
+    shrineName: 'Izumo Taisha',
+    summary:
+      "One of Japan's oldest and most significant shrines, believed to be the gathering place for all kami during the 10th month.",
+    location: {
+      city: 'Izumo',
+      prefecture: 'Shimane Prefecture'
+    },
+    yearBuilt: 'Unknown (ancient origins)',
+    typeOfShrine: {
+      shrineCategory: 'Grand Shrine',
+      enshrinedKami: 'Ōkuninushi-no-mikoto'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Kamiari-sai'],
+      ritualPractices: [
+        'En-musubi (marriage) blessings',
+        'Offerings of sake and rice'
+      ],
+      artifacts: ['Massive shimenawa (sacred straw rope)'],
+      folklore: [
+        'Associated with the creation of Japan',
+        'Known as the deity of marriage and good relationships'
+      ]
+    },
+    image:
+      'https://t3.ftcdn.net/jpg/06/62/74/24/360_F_662742411_7u1DRvtifR6bwGo4i7xenTexIQDLY0iP.jpg'
+  },
+  {
+    shrineName: 'Meiji Jingu',
+    summary:
+      'Dedicated to Emperor Meiji and Empress Shōken, located in a forested area in Tokyo.',
+    location: {
+      city: 'Tokyo',
+      prefecture: 'Tokyo Metropolis'
+    },
+    yearBuilt: '1920',
+    typeOfShrine: {
+      shrineCategory: 'Imperial Shrine',
+      enshrinedKami: 'Emperor Meiji and Empress Shōken'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Meiji Jingu Spring Grand Festival'],
+      ritualPractices: ['Traditional Shinto weddings', "New Year's prayers"],
+      artifacts: ['Treasures of Emperor Meiji'],
+      folklore: [
+        'Built to honor the spirits of the Emperor and Empress',
+        'Known for its expansive forested grounds'
+      ]
+    },
+    image:
+      'https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Meiji-shrine.jpg?itok=C_UcwnUH'
+  },
+  {
+    shrineName: 'Toshogu Shrine',
+    summary:
+      'Lavishly decorated shrine dedicated to Tokugawa Ieyasu, the founder of the Tokugawa shogunate.',
+    location: {
+      city: 'Nikkō',
+      prefecture: 'Tochigi Prefecture'
+    },
+    yearBuilt: '1617',
+    typeOfShrine: {
+      shrineCategory: 'Mausoleum Shrine',
+      enshrinedKami: 'Tokugawa Ieyasu'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Grand Spring and Autumn Festivals'],
+      ritualPractices: [
+        'Yabusame (horseback archery)',
+        'Processions honoring Tokugawa Ieyasu'
+      ],
+      artifacts: ["Famous 'Sleeping Cat' carving"],
+      folklore: [
+        'Believed to protect Japan from evil spirits',
+        'Known for its intricate carvings and decorations'
+      ]
+    },
+    image: 'https://japanupclose.web-japan.org/files/100473045.jpeg'
+  },
+  {
+    shrineName: 'Sumiyoshi Taisha',
+    summary:
+      "One of Osaka's oldest shrines, known for its unique straight bridge and Sumiyoshi-zukuri architecture.",
+    location: {
+      city: 'Osaka',
+      prefecture: 'Osaka Prefecture'
+    },
+    yearBuilt: '211 AD',
+    typeOfShrine: {
+      shrineCategory: 'Sea Shrine',
+      enshrinedKami: 'Sumiyoshi Sanjin'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true,
+      uniqueBridge: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Sumiyoshi Matsuri'],
+      ritualPractices: [
+        'Prayers for safe sea voyages',
+        'Traditional dance performances'
+      ],
+      artifacts: ['Ancient ceremonial swords'],
+      folklore: [
+        'Associated with the protection of sailors',
+        'Known for its distinctive architectural style'
+      ]
+    },
+    image:
+      'https://delightfultravelnotes.com/wp-content/uploads/2024/06/Sorihashi-Taiko-bashi-Sumiyoshi-Taisha-arched-bridge.jpg'
+  },
+  {
+    shrineName: 'Kumano Nachi Taisha',
+    summary:
+      'Part of the Kumano Sanzan, located near the famous Nachi Waterfall.',
+    location: {
+      city: 'Nachikatsuura',
+      prefecture: 'Wakayama Prefecture'
+    },
+    yearBuilt: '4th century',
+    typeOfShrine: {
+      shrineCategory: 'Pilgrimage Shrine',
+      enshrinedKami: 'Fusumi-no-kami'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true,
+      waterfall: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Nachi Fire Festival'],
+      ritualPractices: ['Fire rituals', 'Pilgrimages along the Kumano Kodo'],
+      artifacts: ['Sacred flames used in ceremonies'],
+      folklore: [
+        'Believed to house the spirit of the waterfall',
+        'Known for its scenic beauty and spiritual significance'
+      ]
+    },
+    image: 'https://byfood.b-cdn.net/api/public/assets/10991/content'
+  },
+  {
+    shrineName: 'Takachiho Shrine',
+    summary:
+      'Located in the mythical Takachiho Gorge, this shrine is linked to the legend of Amaterasu and the Sun Goddess hiding in a cave.',
+    location: {
+      city: 'Takachiho',
+      prefecture: 'Miyazaki Prefecture'
+    },
+    yearBuilt: 'Unknown (Ancient origins)',
+    typeOfShrine: {
+      shrineCategory: 'Mythological Shrine',
+      enshrinedKami: 'Takachiho Sumegami'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Takachiho Night Kagura'],
+      ritualPractices: [
+        'Night Kagura dance performances',
+        'Offerings to the Sun Goddess'
+      ],
+      artifacts: ['Ancient masks used in Kagura dances'],
+      folklore: [
+        'Connected to Amaterasu’s myth of hiding in a cave',
+        'Said to be a gateway to the heavens'
+      ]
+    },
+    image:
+      'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SdeBf-crMdQXCDUOLX6B97o3VhoWSQGOl220zJQXH15yEBJoW8CHBvHPKPNyvznKtC_txwI6OCwLuSflQyI8S9HW-8zAjNv6OU3qqGsZhzDIsDjf8jpLFVAcyWohecc8KDuQQ0OeyZe-/s1600/Takachiho.jpg'
+  },
+  {
+    shrineName: 'Aoshima Shrine',
+    summary:
+      "A picturesque seaside shrine located on a small island, known for its unusual 'Devil’s Washboard' rock formations surrounding it.",
+    location: {
+      city: 'Miyazaki',
+      prefecture: 'Miyazaki Prefecture'
+    },
+    yearBuilt: 'Unknown (Ancient origins)',
+    typeOfShrine: {
+      shrineCategory: 'Island Shrine',
+      enshrinedKami: 'Hikohohodemi no Mikoto'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: false
+    },
+    religionAndCulture: {
+      annualFestivals: ['Aoshima Shrine Festival'],
+      ritualPractices: [
+        'Blessings for safe travel',
+        'Prayers for love and prosperity'
+      ],
+      artifacts: ['Ema (wooden plaques) with sea-themed wishes'],
+      folklore: [
+        'Located on an island formed by mythical forces',
+        'Said to bring luck to newlyweds'
+      ]
+    },
+    image:
+      'https://peterlamphotography.com/wp-content/uploads/2020/05/miyazaki-shrines-1006558.jpg'
+  },
+  {
+    shrineName: 'Hakozaki Shrine',
+    summary:
+      'One of Japan’s most important Hachiman shrines, known for its historic resistance against Mongol invasions in the 13th century.',
+    location: {
+      city: 'Fukuoka',
+      prefecture: 'Fukuoka Prefecture'
+    },
+    yearBuilt: '923 AD',
+    typeOfShrine: {
+      shrineCategory: 'Warrior Shrine',
+      enshrinedKami: 'Hachiman'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Tamariba Festival'],
+      ritualPractices: [
+        'Military victory prayers',
+        'Ceremonial armor blessings'
+      ],
+      artifacts: ['Stone monuments from Mongol invasions'],
+      folklore: [
+        'Believed to have summoned the ‘Divine Wind’ (Kamikaze) that stopped Mongol fleets',
+        'A key shrine for samurai prayers'
+      ]
+    },
+    image:
+      'https://www.fukuoka-now.com/wp-content/uploads/2019/08/fn_hojoya-showcase_2022_cl-001.jpeg'
+  },
+  {
+    shrineName: 'Miyajidake Shrine',
+    summary:
+      'Famous for its massive shimenawa (sacred rope) and a perfect sunset alignment that illuminates its pathway twice a year.',
+    location: {
+      city: 'Fukutsu',
+      prefecture: 'Fukuoka Prefecture'
+    },
+    yearBuilt: 'Unknown',
+    typeOfShrine: {
+      shrineCategory: 'Sunset Shrine',
+      enshrinedKami: 'Okinagatarashihime no Mikoto'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Miyajidake Sunset Festival'],
+      ritualPractices: ['Sunset pathway viewing', 'Rituals for safe travels'],
+      artifacts: ['Largest shimenawa in Japan'],
+      folklore: [
+        'Known for its ‘Path of Light’ alignment',
+        'Said to bless those who witness the sunset pathway'
+      ]
+    },
+    image:
+      'https://www.crossroadfukuoka.jp/storage/tourism_attractions/10236/responsive_images/Q6ga6DMVXETBLHVdgzy3dEE1A7r7TMJIYbjnrs6l__1673_1115.jpg'
+  },
+  {
+    shrineName: 'Hirano Shrine',
+    summary:
+      'A Kyoto shrine famous for its cherry blossoms, hosting one of Japan’s oldest annual sakura festivals.',
+    location: {
+      city: 'Kyoto',
+      prefecture: 'Kyoto Prefecture'
+    },
+    yearBuilt: '794 AD',
+    typeOfShrine: {
+      shrineCategory: 'Seasonal Shrine',
+      enshrinedKami: 'Imaki-no-Kami'
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true,
+      seasonalGardens: true
+    },
+    religionAndCulture: {
+      annualFestivals: ['Hirano Sakura Festival'],
+      ritualPractices: ['Cherry blossom celebrations', 'Tea ceremonies'],
+      artifacts: ['Ancient sakura tree records'],
+      folklore: [
+        'Said to protect Kyoto’s cherry blossoms',
+        'A symbol of renewal and life'
+      ]
+    },
+    image:
+      'https://www.travelcaffeine.com/wp-content/uploads/2020/03/hirano-shrine-cherry-blossom-hanami-sakura-season-kyoto-japan-torii-gate-sunburst.jpg'
+  }
+  {
+    shrineName: "Zeniarai Benzaiten Ugafuku Shrine",
+    summary: "A shrine in Kamakura where visitors wash money in sacred spring water, believing it will double their fortune.",
+    location: {
+      city: "Kamakura",
+      prefecture: "Kanagawa Prefecture"
+    },
+    yearBuilt: "1185 AD",
+    typeOfShrine: {
+      shrineCategory: "Wealth Shrine",
+      enshrinedKami: "Benzaiten"
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: false,
+      caveSpring: true
+    },
+    religionAndCulture: {
+      annualFestivals: ["Spring Money-Washing Festival"],
+      ritualPractices: [
+        "Washing money in sacred water",
+        "Wealth and prosperity prayers"
+      ],
+      artifacts: ["Sacred washing baskets"],
+      folklore: [
+        "Said to double the money washed in the shrine's spring",
+        "Linked to Minamoto no Yoritomo’s vision"
+      ]
+    },
+    image: "https://i0.wp.com/www.japanbyweb.com/wp-content/uploads/2016/09/Kamakura-Zeniarai-Benzaiten.jpg?fit=1600%2C1058&ssl=1"
+  },
+  {
+    shrineName: "Mitake Shrine",
+    summary: "A sacred mountain shrine with a long history of wolf worship, popular among hikers and pet owners seeking blessings.",
+    location: {
+      city: "Ome",
+      prefecture: "Tokyo Prefecture"
+    },
+    yearBuilt: "Ancient origins",
+    typeOfShrine: {
+      shrineCategory: "Mountain Shrine",
+      enshrinedKami: "Ōguchi-no-Magami (Wolf Deity)"
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true,
+      mountainTrail: true
+    },
+    religionAndCulture: {
+      annualFestivals: ["Mitake Autumn Festival"],
+      ritualPractices: [
+        "Wolf protection prayers",
+        "Hiking purification rituals"
+      ],
+      artifacts: ["Wolf statues"],
+      folklore: [
+        "Said to be guarded by sacred wolves",
+        "Pilgrims believe the wolves protect from evil spirits"
+      ]
+    },
+    image: "https://totaljapanexperience.wordpress.com/wp-content/uploads/2016/04/2657990145_a7f2081a4c_b.jpg?w=640"
+  },
+  {
+    shrineName: "Tottori Sand Dunes Shrine",
+    summary: "A hidden desert shrine located within Japan’s only sand dunes, offering prayers for travel safety and endurance.",
+    location: {
+      city: "Tottori",
+      prefecture: "Tottori Prefecture"
+    },
+    yearBuilt: "Unknown",
+    typeOfShrine: {
+      shrineCategory: "Desert Shrine",
+      enshrinedKami: "Susanoo-no-Mikoto"
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: false,
+      haiden: true,
+      sandPath: true
+    },
+    religionAndCulture: {
+      annualFestivals: ["Sun and Sand Ceremony"],
+      ritualPractices: [
+        "Blessings for endurance",
+        "Offerings of sand sculptures"
+      ],
+      artifacts: ["Desert torii gate"],
+      folklore: [
+        "Shrine remains buried and uncovered by shifting sand",
+        "Said to give strength to travelers"
+      ]
+    },
+    image: "https://www.kanpai-japan.com/sites/default/files/styles/og/public/uploads/2020/07/tottori-sand-museum-6.jpg"
+  },
+  {
+    shrineName: "Atago Shrine",
+    summary: "A shrine on top of Tokyo’s highest natural hill, known for its steep stairway challenge called the ‘Stairs of Success’.",
+    location: {
+      city: "Tokyo",
+      prefecture: "Tokyo Prefecture"
+    },
+    yearBuilt: "1603",
+    typeOfShrine: {
+      shrineCategory: "Success Shrine",
+      enshrinedKami: "Homusubi-no-Mikoto (Fire Deity)"
+    },
+    architecturalFeatures: {
+      toriiGate: true,
+      honden: true,
+      haiden: true,
+      steepStairs: true
+    },
+    religionAndCulture: {
+      annualFestivals: ["Fire Protection Festival"],
+      ritualPractices: [
+        "Climbing the ‘Stairs of Success’",
+        "Fire safety blessings"
+      ],
+      artifacts: ["Firefighter amulets"],
+      folklore: [
+        "Samurai who climbed the stairs on horseback was rewarded by the shogun",
+        "Said to bring career success to those who climb the stairs"
+      ]
+    },
+    image: "https://japanfreak.tokyo/wp-content/uploads/2017/09/TOKYO-Atago-Shrine-Stone-staircase.png"
+  },
+  {
+    shrineName: "Nageiredo Hall",
+    summary: "Japan’s most ‘dangerous’ shrine, built into a vertical cliffside, accessible only by a hazardous climb.",
+    location: {
+      city: "Misasa",
+      prefecture: "Tottori Prefecture"
+    },
+    yearBuilt: "Unknown (ancient)",
+    typeOfShrine: {
+      shrineCategory: "Cliff Shrine",
+      enshrinedKami: "Kannon (Bodhisattva of Mercy)"
+    },
+    architecturalFeatures: {
+      toriiGate: false,
+      honden: true,
+      haiden: false,
+      cliffsideBuilding: true
+    },
+    religionAndCulture: {
+      annualFestivals: ["Sacred Mountain Pilgrimage"],
+      ritualPractices: [
+        "Spiritual endurance test",
+        "Offering pebbles at the summit"
+      ],
+      artifacts: ["Cliffside temple structures"],
+      folklore: [
+        "Said to have been built overnight by monks using magic",
+        "Only the truly devoted can complete the dangerous hike"
+      ]
+    },
+    image: "https://www.tokyoweekender.com/wp-content/uploads/2019/05/Tottori-Prefecture-Mount-Mitoku-featured-image.jpg"
   }
 ]
+
