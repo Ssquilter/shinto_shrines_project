@@ -263,7 +263,7 @@ const shrines = [
       ]
     },
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/6/64/Hakuto_Shrine.jpg'
+      'https://static.gltjp.com/glt/data/directory/16000/15612/20240403_204349_6d17aad6_w1920.webp'
   },
   {
     shrineName: 'Motoise Kono Shrine',
