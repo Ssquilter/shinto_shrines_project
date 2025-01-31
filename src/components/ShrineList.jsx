@@ -13,26 +13,36 @@ const ShrineList = () => {
           />
           <div className="text">
             <h2>{shrine.shrineName}</h2>
+            <p>{shrine.summary}</p>
             <p>
               <strong>Location:</strong> {shrine.location.city},{' '}
               {shrine.location.prefecture}
             </p>
-            <p>{shrine.summary}</p>
             <p>
               <strong>Year Built:</strong> {shrine.yearBuilt}
             </p>
-            <p>
-              <strong>Type of Shrine:</strong>
+            <strong>Type of Shrine:</strong>
+            <ul>
               <li>Category: {shrine.typeOfShrine.shrineCategory}</li>
               <li>Enshrined Kami: {shrine.typeOfShrine.enshrinedKami}</li>
-            </p>
-            <p>
-              <strong>Architectural Features:</strong>
-
+            </ul>
+            <strong>Architectural Features:</strong>
+            <ul>
               {shrine.architecturalFeatures.toriiGate && <li>Torii Gate</li>}
               {shrine.architecturalFeatures.honden && <li>Honden</li>}
               {shrine.architecturalFeatures.haiden && <li>Haiden</li>}
-            </p>
+            </ul>
+            <strong>Religion & Culture:</strong>
+            <ul>
+              <li>
+                Annual Festivals: {shrine.religionAndCulture.annualFestivals}
+              </li>
+              <li>
+                Ritual Practices: {shrine.religionAndCulture.ritualPractices}
+              </li>
+              <li>Artifacts: {shrine.religionAndCulture.artifacts}</li>
+              <li>Folklore: {shrine.religionAndCulture.folklore}</li>
+            </ul>
           </div>
         </div>
       ))}

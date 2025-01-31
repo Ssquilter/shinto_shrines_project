@@ -4,15 +4,6 @@ import heroImage from '../assests/shinto-hero.jpg'
 const Hero = () => {
   const [offsetY, setOffsetY] = useState(0)
 
-  // const handleScroll = () => {
-  //   setOffsetY(window.scrollY * 0.5)
-  // }
-
-  // useEffect(() => {
-  //   window.addEventListener('scroll', handleScroll)
-  //   return () => window.removeEventListener('scroll', handleScroll)
-  // }, [])
-
   return (
     <div
       className="hero"
