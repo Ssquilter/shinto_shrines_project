@@ -25,8 +25,8 @@ const shrines = [
       ],
       artifacts: ['Fox statues', 'Rice granaries'],
       folklore: [
-        'Associated with fox deities as messengers',
-        'Believed to bless agriculture and business'
+        'Associated with fox deities as messengers.',
+        'Believed to bless agriculture and business.'
       ]
     },
     image:
@@ -59,8 +59,8 @@ const shrines = [
       ],
       artifacts: ['Sacred Mirror (Yata no Kagami)'],
       folklore: [
-        'Central shrine of Shinto',
-        'Believed to house the spirit of the sun goddess'
+        'Central shrine of Shinto.',
+        'Believed to house the spirit of the sun goddess.'
       ]
     },
     image:
@@ -93,8 +93,8 @@ const shrines = [
       ],
       artifacts: ['Sacred Mirror of Love'],
       folklore: [
-        'Said to help visitors find true love',
-        'Ancient myths of Susanoo and Kushinadahime'
+        'Said to help visitors find true love.',
+        'Ancient myths of Susanoo and Kushinadahime.'
       ]
     },
     image:
@@ -126,8 +126,8 @@ const shrines = [
       ],
       artifacts: ['Samurai armor and weapons'],
       folklore: [
-        'Nitta Yoshisada was a samurai hero',
-        'Said to grant strength and courage'
+        'Nitta Yoshisada was a samurai hero.',
+        'Said to grant strength and courage.'
       ]
     },
     image: 'https://www.sandersofoxford.com/media/uploads/product/52409.jpg'
@@ -158,8 +158,8 @@ const shrines = [
       ],
       artifacts: ['Computer omamori (protective amulets)'],
       folklore: [
-        'Popular with IT professionals and anime fans',
-        'Believed to protect against cyber threats'
+        'Popular with IT professionals and anime fans.',
+        'Believed to protect against cyber threats.'
       ]
     },
     image:
@@ -191,8 +191,8 @@ const shrines = [
       ],
       artifacts: ['Sacred breast-shaped stones'],
       folklore: [
-        'Shrine is built inside a cave',
-        'Said to bless couples with children'
+        'Shrine is built inside a cave.',
+        'Said to bless couples with children.'
       ]
     },
     image:
@@ -225,8 +225,8 @@ const shrines = [
       ],
       artifacts: ['Japan’s tallest torii gate'],
       folklore: [
-        'Once the grandest of the Kumano shrines, but was destroyed by a flood in 1889',
-        'Said to be a place of deep spiritual power'
+        'Once the grandest of the Kumano shrines, but was destroyed by a flood in 1889.',
+        'Said to be a place of deep spiritual power.'
       ]
     },
     image:
@@ -258,8 +258,8 @@ const shrines = [
       ],
       artifacts: ['Rabbit statues'],
       folklore: [
-        'Based on the myth of the White Rabbit of Inaba',
-        'Said to bring love and romantic luck'
+        'Based on the myth of the White Rabbit of Inaba.',
+        'Said to bring love and romantic luck.'
       ]
     },
     image:
@@ -291,8 +291,8 @@ const shrines = [
       ],
       artifacts: ['Double torii gate'],
       folklore: [
-        'Believed to be the former home of Amaterasu',
-        'One of the oldest shrines in the region'
+        'Believed to be the former home of Amaterasu.',
+        'One of the oldest shrines in the region.'
       ]
     },
     image: 'https://www.japan-guide.com/news/thumb/1811_kinosaki_geta_L.jpg'
@@ -320,8 +320,8 @@ const shrines = [
       ritualPractices: ['Prayers for safe voyages', 'Seaweed offerings'],
       artifacts: ['Submerged torii gate'],
       folklore: [
-        'Only accessible at low tide',
-        'Worshipped by sailors and fishermen'
+        'Only accessible at low tide.',
+        'Worshipped by sailors and fishermen.'
       ]
     },
     image:
@@ -351,8 +351,8 @@ const shrines = [
       ritualPractices: ['Boat processions', 'Music and dance performances'],
       artifacts: ['Heike Nokyo (Sutras dedicated by the Taira clan)'],
       folklore: [
-        'Believed to be the dwelling place of deities',
-        'Site where Taira no Kiyomori prayed for prosperity'
+        'Believed to be the dwelling place of deities.',
+        'Site where Taira no Kiyomori prayed for prosperity.'
       ]
     },
     image:
@@ -384,8 +384,8 @@ const shrines = [
       ],
       artifacts: ['Massive shimenawa (sacred straw rope)'],
       folklore: [
-        'Associated with the creation of Japan',
-        'Known as the deity of marriage and good relationships'
+        'Associated with the creation of Japan.',
+        'Known as the deity of marriage and good relationships.'
       ]
     },
     image:
@@ -414,8 +414,8 @@ const shrines = [
       ritualPractices: ['Traditional Shinto weddings', "New Year's prayers"],
       artifacts: ['Treasures of Emperor Meiji'],
       folklore: [
-        'Built to honor the spirits of the Emperor and Empress',
-        'Known for its expansive forested grounds'
+        'Built to honor the spirits of the Emperor and Empress.',
+        'Known for its expansive forested grounds.'
       ]
     },
     image:
@@ -447,8 +447,8 @@ const shrines = [
       ],
       artifacts: ["Famous 'Sleeping Cat' carving"],
       folklore: [
-        'Believed to protect Japan from evil spirits',
-        'Known for its intricate carvings and decorations'
+        'Believed to protect Japan from evil spirits.',
+        'Known for its intricate carvings and decorations.'
       ]
     },
     image: 'https://japanupclose.web-japan.org/files/100473045.jpeg'
@@ -480,8 +480,8 @@ const shrines = [
       ],
       artifacts: ['Ancient ceremonial swords'],
       folklore: [
-        'Associated with the protection of sailors',
-        'Known for its distinctive architectural style'
+        'Associated with the protection of sailors.',
+        'Known for its distinctive architectural style.'
       ]
     },
     image:
@@ -511,8 +511,8 @@ const shrines = [
       ritualPractices: ['Fire rituals', 'Pilgrimages along the Kumano Kodo'],
       artifacts: ['Sacred flames used in ceremonies'],
       folklore: [
-        'Believed to house the spirit of the waterfall',
-        'Known for its scenic beauty and spiritual significance'
+        'Believed to house the spirit of the waterfall.',
+        'Known for its scenic beauty and spiritual significance.'
       ]
     },
     image: 'https://byfood.b-cdn.net/api/public/assets/10991/content'
@@ -543,8 +543,8 @@ const shrines = [
       ],
       artifacts: ['Ancient masks used in Kagura dances'],
       folklore: [
-        'Connected to Amaterasu’s myth of hiding in a cave',
-        'Said to be a gateway to the heavens'
+        'Connected to Amaterasu’s myth of hiding in a cave.',
+        'Said to be a gateway to the heavens.'
       ]
     },
     image:
@@ -576,8 +576,8 @@ const shrines = [
       ],
       artifacts: ['Ema (wooden plaques) with sea-themed wishes'],
       folklore: [
-        'Located on an island formed by mythical forces',
-        'Said to bring luck to newlyweds'
+        'Located on an island formed by mythical forces.',
+        'Said to bring luck to newlyweds.'
       ]
     },
     image:
@@ -609,8 +609,8 @@ const shrines = [
       ],
       artifacts: ['Stone monuments from Mongol invasions'],
       folklore: [
-        'Believed to have summoned the ‘Divine Wind’ (Kamikaze) that stopped Mongol fleets',
-        'A key shrine for samurai prayers'
+        'Believed to have summoned the ‘Divine Wind’ (Kamikaze) that stopped Mongol fleets.',
+        'A key shrine for samurai prayers.'
       ]
     },
     image:
@@ -670,8 +670,8 @@ const shrines = [
       ritualPractices: ['Cherry blossom celebrations', 'Tea ceremonies'],
       artifacts: ['Ancient sakura tree records'],
       folklore: [
-        'Said to protect Kyoto’s cherry blossoms',
-        'A symbol of renewal and life'
+        'Said to protect Kyoto’s cherry blossoms.',
+        'A symbol of renewal and life.'
       ]
     },
     image:
@@ -704,8 +704,8 @@ const shrines = [
       ],
       artifacts: ['Sacred washing baskets'],
       folklore: [
-        "Said to double the money washed in the shrine's spring",
-        'Linked to Minamoto no Yoritomo’s vision'
+        "Said to double the money washed in the shrine's spring.",
+        'Linked to Minamoto no Yoritomo’s vision.'
       ]
     },
     image:
@@ -738,8 +738,8 @@ const shrines = [
       ],
       artifacts: ['Wolf statues'],
       folklore: [
-        'Said to be guarded by sacred wolves',
-        'Pilgrims believe the wolves protect from evil spirits'
+        'Said to be guarded by sacred wolves.',
+        'Pilgrims believe the wolves protect from evil spirits.'
       ]
     },
     image:
@@ -772,8 +772,8 @@ const shrines = [
       ],
       artifacts: ['Desert torii gate'],
       folklore: [
-        'Shrine remains buried and uncovered by shifting sand',
-        'Said to give strength to travelers'
+        'Shrine remains buried and uncovered by shifting sand.',
+        'Said to give strength to travelers.'
       ]
     },
     image:
@@ -806,8 +806,8 @@ const shrines = [
       ],
       artifacts: ['Firefighter amulets'],
       folklore: [
-        'Samurai who climbed the stairs on horseback was rewarded by the shogun',
-        'Said to bring career success to those who climb the stairs'
+        'Samurai who climbed the stairs on horseback was rewarded by the shogun.',
+        'Said to bring career success to those who climb the stairs.'
       ]
     },
     image:
@@ -840,8 +840,8 @@ const shrines = [
       ],
       artifacts: ['Cliffside temple structures'],
       folklore: [
-        'Said to have been built overnight by monks using magic',
-        'Only the truly devoted can complete the dangerous hike'
+        'Said to have been built overnight by monks using magic.',
+        'Only the truly devoted can complete the dangerous hike.'
       ]
     },
     image:
