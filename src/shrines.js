@@ -34,7 +34,7 @@ const shrines = [
   },
 
   {
-    shrineName: 'Ishi Grand Shrine',
+    shrineName: 'Ishi Jingū Shrine',
     summary:
       'Ise Jingū is considered the most sacred Shinto shrine in Japan. The shrine is dedicated to Amaterasu-Ōmikami, the sun goddess and ancestor of the imperial family. One of its unique practices is the Shikinen Sengu, the ritual rebuilding of the shrine every 20 years, symbolizing the Shinto belief in the impermanence and renewal of nature.',
     location: {
@@ -63,8 +63,7 @@ const shrines = [
         'Believed to house the spirit of the sun goddess.'
       ]
     },
-    image:
-      'https://www.the-kansai-guide.com/kansaiguide/data/article/21000/20018/20211225_054611_23c2b5a1_w1920.jpg'
+    image: 'https://miro.medium.com/v2/resize:fit:1400/0*J2efezlgHB5XQQwx.jpeg'
   },
 
   {
@@ -98,7 +97,7 @@ const shrines = [
       ]
     },
     image:
-      'https://www.visit-matsue.com/_assets/page_images/images/000/009/197/19e39ab56c56b1ed270970f9cfde0b0d862cb4b5.jpg?1485315662'
+      'https://www.kankou-shimane.com/en/wp-content/uploads/2021/02/yaegaki02.jpg'
   },
   {
     shrineName: 'Nitta Shrine',
@@ -187,8 +186,8 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Udo Shrine Fertility Festival'],
       ritualPractices: [
-        'Throwing lucky stones into a target',
-        'Fertility and childbirth blessings'
+        'Throwing lucky stones into a target.',
+        'Fertility and childbirth blessings.'
       ],
       artifacts: ['Sacred breast-shaped stones'],
       folklore: [
@@ -221,8 +220,8 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kumano Hongu Taisha Spring Festival'],
       ritualPractices: [
-        'Spiritual purification ceremonies',
-        'Pilgrims walking the Kumano Kodo trail'
+        'Spiritual purification ceremonies.',
+        'Pilgrims walking the Kumano Kodo trail.'
       ],
       artifacts: ['Japan’s tallest torii gate'],
       folklore: [
@@ -318,7 +317,7 @@ const shrines = [
     },
     religionAndCulture: {
       annualFestivals: ['Maritime Safety Festival'],
-      ritualPractices: ['Prayers for safe voyages', 'Seaweed offerings'],
+      ritualPractices: ['Prayers for safe voyages.', 'Seaweed offerings.'],
       artifacts: ['Submerged torii gate'],
       folklore: [
         'Only accessible at low tide.',
@@ -357,7 +356,7 @@ const shrines = [
       ]
     },
     image:
-      'https://res.cloudinary.com/jnto/image/upload/w_1080,h_756,c_fill,f_auto,fl_lossy,q_60/v1/media/filer_public/0b/34/0b34b10e-970e-4886-b484-6038871b83ca/itsukushima_shrine_pemo3k'
+      'https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/01/Miyajima-Floating-shrine.jpg'
   },
   {
     shrineName: 'Izumo Taisha',
@@ -380,8 +379,8 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kamiari-sai'],
       ritualPractices: [
-        'En-musubi (marriage) blessings',
-        'Offerings of sake and rice'
+        'En-musubi (marriage) blessings.',
+        'Offerings of sake and rice.'
       ],
       artifacts: ['Massive shimenawa (sacred straw rope)'],
       folklore: [
@@ -389,8 +388,7 @@ const shrines = [
         'Known as the deity of marriage and good relationships.'
       ]
     },
-    image:
-      'https://t3.ftcdn.net/jpg/06/62/74/24/360_F_662742411_7u1DRvtifR6bwGo4i7xenTexIQDLY0iP.jpg'
+    image: 'https://www.japan-guide.com/news/thumb/2003_shimane_l.jpg'
   },
   {
     shrineName: 'Meiji Jingu',
@@ -420,7 +418,7 @@ const shrines = [
       ]
     },
     image:
-      'https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Meiji-shrine.jpg?itok=C_UcwnUH'
+      'https://www.meijikinenkan.gr.jp/english/images/wedding/wedding06.jpg'
   },
   {
     shrineName: 'Toshogu Shrine',
@@ -443,8 +441,8 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Grand Spring and Autumn Festivals'],
       ritualPractices: [
-        'Yabusame (horseback archery)',
-        'Processions honoring Tokugawa Ieyasu'
+        'Yabusame (horseback archery).',
+        'Processions honoring Tokugawa Ieyasu.'
       ],
       artifacts: ["Famous 'Sleeping Cat' carving"],
       folklore: [
@@ -452,7 +450,8 @@ const shrines = [
         'Known for its intricate carvings and decorations.'
       ]
     },
-    image: 'https://japanupclose.web-japan.org/files/100473045.jpeg'
+    image:
+      'https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/08/Nikko-Toshogu-Shrine-.jpg'
   },
   {
     shrineName: 'Sumiyoshi Taisha',
@@ -582,7 +581,7 @@ const shrines = [
       ]
     },
     image:
-      'https://peterlamphotography.com/wp-content/uploads/2020/05/miyazaki-shrines-1006558.jpg'
+      'https://cdn.kyushuandtokyo.org/front_assets/images_other/spot/middle/aoshimajinja2.jpg'
   },
   {
     shrineName: 'Hakozaki Shrine',
@@ -744,7 +743,7 @@ const shrines = [
       ]
     },
     image:
-      'https://totaljapanexperience.wordpress.com/wp-content/uploads/2016/04/2657990145_a7f2081a4c_b.jpg?w=640'
+      'https://japan-shrine.info/wp-content/uploads/DSC_0439-2-1024x768.jpg'
   },
   {
     shrineName: 'Tottori Sand Dunes Shrine',

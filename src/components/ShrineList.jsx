@@ -49,7 +49,8 @@ const ShrineList = () => {
                 Annual Festivals: {shrine.religionAndCulture.annualFestivals}
               </li>
               <li>
-                Ritual Practices: {shrine.religionAndCulture.ritualPractices}
+                Ritual Practices:{' '}
+                {shrine.religionAndCulture.ritualPractices.join(' ')}
               </li>
               <li>Artifacts: {shrine.religionAndCulture.artifacts}</li>
               <li>Folklore: {shrine.religionAndCulture.folklore.join(' ')}</li>
