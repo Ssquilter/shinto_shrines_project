@@ -130,7 +130,8 @@ const shrines = [
         'Said to grant strength and courage.'
       ]
     },
-    image: 'https://www.sandersofoxford.com/media/uploads/product/52409.jpg'
+    image:
+      'https://www.kagoshima-kankou.com/storage/tourism_attractions/10417/responsive_images/fVgR7pzo39ZeCJVSn6bV7aUBOb1BMspcV9aY0Rc1__1024_682.jpeg'
   },
   {
     shrineName: 'Kanda Myojin',
@@ -810,8 +811,7 @@ const shrines = [
         'Said to bring career success to those who climb the stairs.'
       ]
     },
-    image:
-      'https://japanfreak.tokyo/wp-content/uploads/2017/09/TOKYO-Atago-Shrine-Stone-staircase.png'
+    image: 'https://japan-shrine.info/wp-content/uploads/DSC_0545.jpg'
   },
   {
     shrineName: 'Nageiredo Hall',

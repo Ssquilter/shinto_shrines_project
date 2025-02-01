@@ -2,7 +2,8 @@ const About = () => {
   return (
     <div className="container">
       <div className="about">
-        <h1>Shinto: A Tapestry of Nature and Spirituality</h1>
+        <h2>Shinto: A Tapestry of Nature and Spirituality</h2>
+        <hr />
         <p>
           Shinto shrines are essential to Japan’s cultural and religious
           heritage, serving as sacred spaces dedicated to the numerous kami
@@ -26,11 +27,11 @@ const About = () => {
         </p>
         <p>
           The diverse range of shrine types, each dedicated to different deities
-          and purposes, illustrates how Shinto adapts to various aspects of
-          nature and human endeavor. Together, these features present a rich
-          tapestry of historical narratives, spiritual symbolism, and cultural
-          practices, providing insight into a tradition that has shaped Japanese
-          society for millennia.
+          and purposes, illustrates how Shinto adapts to aspects of nature and
+          human endeavor. Together, these features present a rich tapestry of
+          historical narratives, spiritual symbolism, and cultural practices,
+          providing insight into a tradition that has shaped Japanese society
+          for millennia.
         </p>
       </div>
     </div>
