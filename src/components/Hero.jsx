@@ -14,8 +14,7 @@ const Hero = () => {
     >
       <h1>Explore Japan’s Most Beautiful Shrines</h1>
       <p>
-        Discover ancient traditions, breathtaking architecture, and rich
-        history.
+        Discover ancient traditions, breathtaking architecture, and rich history
       </p>
     </div>
   )

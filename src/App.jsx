@@ -2,6 +2,7 @@ import './App.css'
 import ShrineList from './components/ShrineList'
 import Hero from './components/Hero'
 import About from './components/About'
+import Discover from './components/Discover'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Hero />
       <About />
       <ShrineList />
+      <Discover />
     </div>
   )
 }
