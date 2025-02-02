@@ -9,12 +9,16 @@ body {
 }
 
 h1 {
-  font-family: Recursive;
+  font-family: "haboro-contrast-condensed", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   color: rgb(230, 234, 228);
 }
 
 h2 {
-  font-family: Recursive;
+  font-family: "haboro-contrast-condensed", sans-serif;
+  font-weight: 600;
+  font-style: normal;
 }
 
 .hero {
@@ -34,16 +38,19 @@ h2 {
 }
 
 .hero h1 {
+  font-family: "haboro-contrast-condensed", sans-serif;
+  font-weight: 800;
+  font-style: normal;
   font-size: 3rem;
-  color: #ecfe80;
-  /* color: #f05659; */
+  /* color: #ecfe80; */
+  color: #a1f4c8;
   margin: 0;
   text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
 }
 
 .hero p {
   font-size: 1.75rem;
-  font-family: Recursive;
+  font-family: IBM Plex Sans;
   rgb(230, 234, 228);
   max-width: 600px;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
@@ -77,7 +84,7 @@ li {
   min-height: 40vh;
   height: auto;
   gap: 20px;
-  background-color: rgb(230, 234, 228);
+  background-color: #ECFEE8;
   padding: 20px;
   border-radius: 16px;
   margin-bottom: 60px;
@@ -103,26 +110,37 @@ li {
 }
 
 .about {
+  font-family: "haboro-contrast-condensed", sans-serif;
   color: #f6f3eb;
   width: 60vw;
   text-align: center;
-  font-size: larger;
   line-height: 1.5;
+  margin-bottom: 60px;
 }
 .about h2 {
   font-weight: 500;
+  font-size: 2.25rem;
   color: #f6f3eb;
 }
 
 .about p {
-  font-weight: 200;
+  font-family: IBM Plex Sans;
+  font-weight: 300;
+  font-size: 1.18rem;
 }
 
 hr {
-  background: #ecfe80;
+  background: #76e5aa;
   height: 4px;
-  width: 30%;
+  width: 20%;
   display: inline-block;
   vertical-align: top;
   margin-top: 7px;
+}
+
+.discover {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 80px;
+  column-gap: 60px
 }
