@@ -3,6 +3,7 @@ import ShrineList from './components/ShrineList'
 import Hero from './components/Hero'
 import About from './components/About'
 import Discover from './components/Discover'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <About />
       <ShrineList />
       <Discover />
+      <Footer />
     </div>
   )
 }
