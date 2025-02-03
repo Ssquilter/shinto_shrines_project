@@ -20,13 +20,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Hatsu-uma Festival'],
       ritualPractices: [
-        'Senbon Torii (thousands of torii gates)',
+        'Senbon Torii (thousands of torii gates),',
         'Omamori (amulet) offerings'
       ],
-      artifacts: ['Fox statues', 'Rice granaries'],
+      artifacts: ['Fox statues,', 'Rice granaries'],
       folklore: [
-        'Associated with fox deities as messengers.',
-        'Believed to bless agriculture and business.'
+        'Associated with fox deities as messengers,',
+        'believed to bless agriculture and business'
       ]
     },
     image:
@@ -54,8 +54,8 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kannamesai Festival'],
       ritualPractices: [
-        'Shikinen Sengu (rebuilding every 20 years)',
-        'Offerings of first harvest rice'
+        'Shikinen Sengu (rebuilding every 20 years),',
+        'offerings of first harvest rice'
       ],
       artifacts: ['Sacred Mirror (Yata no Kagami)'],
       folklore: [
@@ -87,13 +87,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Yaegaki Shrine Love Festival'],
       ritualPractices: [
-        'Love divination with floating paper on sacred pond',
-        'Marriage blessings'
+        'Love divination with floating paper on sacred pond,',
+        'marriage blessings'
       ],
       artifacts: ['Sacred Mirror of Love'],
       folklore: [
-        'Said to help visitors find true love.',
-        'Ancient myths of Susanoo and Kushinadahime.'
+        'Said to help visitors find true love,',
+        'ancient myths of Susanoo and Kushinadahime.'
       ]
     },
     image:
@@ -120,13 +120,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Samurai Procession'],
       ritualPractices: [
-        'Worship for victory in battle',
-        'Offerings of wooden swords'
+        'Worship for victory in battle,',
+        'offerings of wooden swords'
       ],
       artifacts: ['Samurai armor and weapons'],
       folklore: [
-        'Nitta Yoshisada was a samurai hero.',
-        'Said to grant strength and courage.'
+        'Nitta Yoshisada was a samurai hero,',
+        'said to grant strength and courage'
       ]
     },
     image:
@@ -153,13 +153,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kanda Matsuri'],
       ritualPractices: [
-        'Blessing of electronic devices',
-        'Business prosperity prayers'
+        'Blessing of electronic devices,',
+        'business prosperity prayers'
       ],
       artifacts: ['Computer omamori (protective amulets)'],
       folklore: [
-        'Popular with IT professionals and anime fans.',
-        'Believed to protect against cyber threats.'
+        'Popular with IT professionals and anime fans,',
+        'believed to protect against cyber threats.'
       ]
     },
     image:
@@ -186,13 +186,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Udo Shrine Fertility Festival'],
       ritualPractices: [
-        'Throwing lucky stones into a target.',
-        'Fertility and childbirth blessings.'
+        'Throwing lucky stones into a target,',
+        'fertility and childbirth blessings'
       ],
       artifacts: ['Sacred breast-shaped stones'],
       folklore: [
-        'Shrine is built inside a cave.',
-        'Said to bless couples with children.'
+        'Shrine is built inside a cave,',
+        'said to bless couples with children'
       ]
     },
     image:
@@ -220,8 +220,8 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kumano Hongu Taisha Spring Festival'],
       ritualPractices: [
-        'Spiritual purification ceremonies.',
-        'Pilgrims walking the Kumano Kodo trail.'
+        'Spiritual purification ceremonies,',
+        'pilgrims walking the Kumano Kodo trail.'
       ],
       artifacts: ['Japan’s tallest torii gate'],
       folklore: [
@@ -258,8 +258,8 @@ const shrines = [
       ],
       artifacts: ['Rabbit statues'],
       folklore: [
-        'Based on the myth of the White Rabbit of Inaba.',
-        'Said to bring love and romantic luck.'
+        'Based on the myth of the White Rabbit of Inaba,',
+        'said to bring love and romantic luck'
       ]
     },
     image:
@@ -286,13 +286,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kono Matsuri'],
       ritualPractices: [
-        'Offerings of salt from the sea',
-        'Sun-related ceremonies'
+        'Offerings of salt from the sea,',
+        'sun-related ceremonies'
       ],
       artifacts: ['Double torii gate'],
       folklore: [
-        'Believed to be the former home of Amaterasu.',
-        'One of the oldest shrines in the region.'
+        'Believed to be the former home of Amaterasu,',
+        'one of the oldest shrines in the region.'
       ]
     },
     image: 'https://www.japan-guide.com/news/thumb/1811_kinosaki_geta_L.jpg'
@@ -317,11 +317,11 @@ const shrines = [
     },
     religionAndCulture: {
       annualFestivals: ['Maritime Safety Festival'],
-      ritualPractices: ['Prayers for safe voyages.', 'Seaweed offerings.'],
+      ritualPractices: ['Prayers for safe voyages,', 'seaweed offerings.'],
       artifacts: ['Submerged torii gate'],
       folklore: [
-        'Only accessible at low tide.',
-        'Worshipped by sailors and fishermen.'
+        'Only accessible at low tide,',
+        'worshipped by sailors and fishermen'
       ]
     },
     image:
@@ -351,8 +351,8 @@ const shrines = [
       ritualPractices: ['Boat processions', 'Music and dance performances'],
       artifacts: ['Heike Nokyo (Sutras dedicated by the Taira clan)'],
       folklore: [
-        'Believed to be the dwelling place of deities.',
-        'Site where Taira no Kiyomori prayed for prosperity.'
+        'Believed to be the dwelling place of deities,',
+        'site where Taira no Kiyomori prayed for prosperity'
       ]
     },
     image:
@@ -379,13 +379,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Kamiari-sai'],
       ritualPractices: [
-        'En-musubi (marriage) blessings.',
-        'Offerings of sake and rice.'
+        'En-musubi (marriage) blessings,',
+        'offerings of sake and rice.'
       ],
       artifacts: ['Massive shimenawa (sacred straw rope)'],
       folklore: [
-        'Associated with the creation of Japan.',
-        'Known as the deity of marriage and good relationships.'
+        'Associated with the creation of Japan,',
+        'known as the deity of marriage and good relationships'
       ]
     },
     image: 'https://www.japan-guide.com/news/thumb/2003_shimane_l.jpg'
@@ -410,11 +410,11 @@ const shrines = [
     },
     religionAndCulture: {
       annualFestivals: ['Meiji Jingu Spring Grand Festival'],
-      ritualPractices: ['Traditional Shinto weddings', "New Year's prayers"],
+      ritualPractices: ['Traditional Shinto weddings,', "New Year's prayers"],
       artifacts: ['Treasures of Emperor Meiji'],
       folklore: [
-        'Built to honor the spirits of the Emperor and Empress.',
-        'Known for its expansive forested grounds.'
+        'Built to honor the spirits of the Emperor and Empress,',
+        'known for its expansive forested grounds'
       ]
     },
     image:
@@ -441,13 +441,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Grand Spring and Autumn Festivals'],
       ritualPractices: [
-        'Yabusame (horseback archery).',
-        'Processions honoring Tokugawa Ieyasu.'
+        'Yabusame (horseback archery),',
+        'processions honoring Tokugawa Ieyasu.'
       ],
       artifacts: ["Famous 'Sleeping Cat' carving"],
       folklore: [
-        'Believed to protect Japan from evil spirits.',
-        'Known for its intricate carvings and decorations.'
+        'Believed to protect Japan from evil spirits,',
+        'known for its intricate carvings and decorations.'
       ]
     },
     image:
@@ -475,13 +475,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Sumiyoshi Matsuri'],
       ritualPractices: [
-        'Prayers for safe sea voyages',
-        'Traditional dance performances'
+        'Prayers for safe sea voyages,',
+        'traditional dance performances'
       ],
       artifacts: ['Ancient ceremonial swords'],
       folklore: [
-        'Associated with the protection of sailors.',
-        'Known for its distinctive architectural style.'
+        'Associated with the protection of sailors,',
+        'known for its distinctive architectural style'
       ]
     },
     image:
@@ -508,11 +508,11 @@ const shrines = [
     },
     religionAndCulture: {
       annualFestivals: ['Nachi Fire Festival'],
-      ritualPractices: ['Fire rituals', 'Pilgrimages along the Kumano Kodo'],
+      ritualPractices: ['Fire rituals,', 'pilgrimages along the Kumano Kodo'],
       artifacts: ['Sacred flames used in ceremonies'],
       folklore: [
-        'Believed to house the spirit of the waterfall.',
-        'Known for its scenic beauty and spiritual significance.'
+        'Believed to house the spirit of the waterfall,',
+        'known for its scenic beauty and spiritual significance'
       ]
     },
     image: 'https://byfood.b-cdn.net/api/public/assets/10991/content'
@@ -538,13 +538,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Takachiho Night Kagura'],
       ritualPractices: [
-        'Night Kagura dance performances',
-        'Offerings to the Sun Goddess'
+        'Night Kagura dance performances,',
+        'offerings to the Sun Goddess'
       ],
       artifacts: ['Ancient masks used in Kagura dances'],
       folklore: [
-        'Connected to Amaterasu’s myth of hiding in a cave.',
-        'Said to be a gateway to the heavens.'
+        'Connected to Amaterasu’s myth of hiding in a cave,',
+        'said to be a gateway to the heavens'
       ]
     },
     image:
@@ -571,13 +571,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Aoshima Shrine Festival'],
       ritualPractices: [
-        'Blessings for safe travel',
+        'Blessings for safe travel,',
         'Prayers for love and prosperity'
       ],
       artifacts: ['Ema (wooden plaques) with sea-themed wishes'],
       folklore: [
-        'Located on an island formed by mythical forces.',
-        'Said to bring luck to newlyweds.'
+        'Located on an island formed by mythical forces,',
+        'said to bring luck to newlyweds.'
       ]
     },
     image:
@@ -604,13 +604,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Tamariba Festival'],
       ritualPractices: [
-        'Military victory prayers',
-        'Ceremonial armor blessings'
+        'Military victory prayers,',
+        'ceremonial armor blessings'
       ],
       artifacts: ['Stone monuments from Mongol invasions'],
       folklore: [
-        'Believed to have summoned the ‘Divine Wind’ (Kamikaze) that stopped Mongol fleets.',
-        'A key shrine for samurai prayers.'
+        'Believed to have summoned the ‘Divine Wind’ (Kamikaze) that stopped Mongol fleets,',
+        'a key shrine for samurai prayers.'
       ]
     },
     image:
@@ -636,11 +636,11 @@ const shrines = [
     },
     religionAndCulture: {
       annualFestivals: ['Miyajidake Sunset Festival'],
-      ritualPractices: ['Sunset pathway viewing', 'Rituals for safe travels'],
+      ritualPractices: ['Sunset pathway viewing,', 'rituals for safe travels'],
       artifacts: ['Largest shimenawa in Japan'],
       folklore: [
-        'Known for its ‘Path of Light’ alignment',
-        'Said to bless those who witness the sunset pathway'
+        'Known for its ‘Path of Light’ alignment,',
+        'said to bless those who witness the sunset pathway'
       ]
     },
     image:
@@ -667,11 +667,11 @@ const shrines = [
     },
     religionAndCulture: {
       annualFestivals: ['Hirano Sakura Festival'],
-      ritualPractices: ['Cherry blossom celebrations', 'Tea ceremonies'],
+      ritualPractices: ['Cherry blossom celebrations,', 'tea ceremonies'],
       artifacts: ['Ancient sakura tree records'],
       folklore: [
-        'Said to protect Kyoto’s cherry blossoms.',
-        'A symbol of renewal and life.'
+        'Said to protect Kyoto’s cherry blossoms,',
+        'a symbol of renewal and life'
       ]
     },
     image:
@@ -699,13 +699,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Spring Money-Washing Festival'],
       ritualPractices: [
-        'Washing money in sacred water',
-        'Wealth and prosperity prayers'
+        'Washing money in sacred water,',
+        'wealth and prosperity prayers'
       ],
       artifacts: ['Sacred washing baskets'],
       folklore: [
-        "Said to double the money washed in the shrine's spring.",
-        'Linked to Minamoto no Yoritomo’s vision.'
+        "Said to double the money washed in the shrine's spring,",
+        'linked to Minamoto no Yoritomo’s vision.'
       ]
     },
     image:
@@ -733,13 +733,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Mitake Autumn Festival'],
       ritualPractices: [
-        'Wolf protection prayers',
-        'Hiking purification rituals'
+        'Wolf protection prayers,',
+        'hiking purification rituals'
       ],
       artifacts: ['Wolf statues'],
       folklore: [
-        'Said to be guarded by sacred wolves.',
-        'Pilgrims believe the wolves protect from evil spirits.'
+        'Said to be guarded by sacred wolves,',
+        'pilgrims believe the wolves protect from evil spirits.'
       ]
     },
     image:
@@ -767,13 +767,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Sun and Sand Ceremony'],
       ritualPractices: [
-        'Blessings for endurance',
-        'Offerings of sand sculptures'
+        'Blessings for endurance,',
+        'offerings of sand sculptures'
       ],
       artifacts: ['Desert torii gate'],
       folklore: [
-        'Shrine remains buried and uncovered by shifting sand.',
-        'Said to give strength to travelers.'
+        'Shrine remains buried and uncovered by shifting sand,',
+        'said to give strength to travelers'
       ]
     },
     image:
@@ -806,8 +806,8 @@ const shrines = [
       ],
       artifacts: ['Firefighter amulets'],
       folklore: [
-        'Samurai who climbed the stairs on horseback was rewarded by the shogun.',
-        'Said to bring career success to those who climb the stairs.'
+        'Samurai who climbed the stairs on horseback was rewarded by the shogun,',
+        'said to bring career success to those who climb the stairs'
       ]
     },
     image: 'https://japan-shrine.info/wp-content/uploads/DSC_0545.jpg'
@@ -834,13 +834,13 @@ const shrines = [
     religionAndCulture: {
       annualFestivals: ['Sacred Mountain Pilgrimage'],
       ritualPractices: [
-        'Spiritual endurance test',
-        'Offering pebbles at the summit'
+        'Spiritual endurance test,',
+        'offering pebbles at the summit'
       ],
       artifacts: ['Cliffside temple structures'],
       folklore: [
-        'Said to have been built overnight by monks using magic.',
-        'Only the truly devoted can complete the dangerous hike.'
+        'Said to have been built overnight by monks using magic,',
+        'only the truly devoted can complete the dangerous hike'
       ]
     },
     image:

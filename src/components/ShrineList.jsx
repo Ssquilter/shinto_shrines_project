@@ -24,36 +24,43 @@ const ShrineList = () => {
               <strong>Year Built:</strong> {shrine.yearBuilt}
             </p>
 
-            <p>
+            <div>
               <strong>Type of Shrine:</strong>
-            </p>
+            </div>
             <ul>
               <li>Category: {shrine.typeOfShrine.shrineCategory}</li>
               <li>Enshrined Kami: {shrine.typeOfShrine.enshrinedKami}</li>
             </ul>
 
-            <p>
+            <div>
               <strong>Architectural Features:</strong>
-            </p>
+            </div>
             <ul>
               {shrine.architecturalFeatures.toriiGate && <li>Torii Gate</li>}
               {shrine.architecturalFeatures.honden && <li>Honden</li>}
               {shrine.architecturalFeatures.haiden && <li>Haiden</li>}
             </ul>
 
-            <p>
+            <div>
               <strong>Religion & Culture:</strong>
-            </p>
+            </div>
             <ul>
               <li>
-                Annual Festivals: {shrine.religionAndCulture.annualFestivals}
+                <span className="label">Annual Festivals:</span>{' '}
+                {shrine.religionAndCulture.annualFestivals}
               </li>
               <li>
-                Ritual Practices:{' '}
+                <span className="label">Ritual Practices:</span>{' '}
                 {shrine.religionAndCulture.ritualPractices.join(' ')}
               </li>
-              <li>Artifacts: {shrine.religionAndCulture.artifacts}</li>
-              <li>Folklore: {shrine.religionAndCulture.folklore.join(' ')}</li>
+              <li>
+                <span className="label">Artifacts:</span>{' '}
+                {shrine.religionAndCulture.artifacts.join(' ')}
+              </li>
+              <li>
+                <span className="label">Folklore:</span>{' '}
+                {shrine.religionAndCulture.folklore.join(' ')}
+              </li>
             </ul>
           </div>
         </div>

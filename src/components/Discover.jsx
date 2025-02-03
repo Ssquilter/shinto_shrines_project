@@ -13,8 +13,10 @@ const Discover = () => {
           />
           <h3>A Night Out in Golden Gai</h3>
           <p>
-            Explore Tokyo’s famous bar district, where tiny alleys lead to
-            hidden gems.
+            Tokyo’s famous bar district features narrow alleys that lead to
+            hidden gems. The vibrant streets showcase a captivating blend of
+            traditional izakayas and modern cocktail bars, merging culinary
+            heritage with contemporary innovation.
           </p>
         </div>
 
@@ -27,6 +29,8 @@ const Discover = () => {
           <h3>Modern Japanese Art</h3>
           <p>
             Experience the dynamic world of contemporary Japanese street art.
+            Discover how bold colors and innovative techniques reflect the
+            vibrant culture and social commentary of modern Japan.
           </p>
         </div>
 
@@ -38,8 +42,9 @@ const Discover = () => {
           />
           <h3>Fuji & The Everyday</h3>
           <p>
-            Mount Fuji looms behind a local Lawson, blending nature and daily
-            life.
+            The trend of influencers capturing photos in front of convenience
+            stores with Mount Fuji in the background has become a popular way to
+            showcase the blend of urban life and stunning natural beauty.
           </p>
         </div>
       </div>

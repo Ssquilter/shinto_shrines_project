@@ -56,17 +56,6 @@ h2 {
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
 }
 
-ul {
-  padding-left: 20px;
-}
-
-li {
-  margin-bottom: 5px;
-  padding-left: 8px;
-  text-indent: -2px;
-  line-height: 1.15;
-  list-style-position: outside;
-}
 
 .container {
   width: 80vw;
@@ -80,9 +69,9 @@ li {
 
 .card {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
-  min-height: 40vh;
+  min-height: 35vh;
   height: auto;
   gap: 20px;
   background-color: #ECFEE8;
@@ -93,21 +82,41 @@ li {
 
 .shrineImage {
   width: 40%;
-  height: 550px;
+  height: 500px;
   max-height: 100%;
   align-self: center;
   object-fit: cover;
   border-radius: 20px;
   display: block;
 }
-
 .text {
   flex: 1;
-  /* display: flex; */
   flex-direction: column;
   justify-content: flex-start;
   text-align: left;
-  padding: 20px;
+  padding: 10px;
+}
+
+ul {
+  padding-left: 20px;
+  margin-top: 4px; 
+  margin-bottom: 12px; 
+}
+
+li {
+  margin-bottom: 5px;
+  padding-left: 8px;
+  text-indent: -8px;
+  line-height: 1.25;
+  list-style-position: outside;
+}
+
+.text div {
+  margin-bottom: 0; 
+}
+
+.label {
+  font-weight: 500; 
 }
 
 .about {
@@ -206,7 +215,7 @@ hr {
 .discoverItem p {
   color: #f6f3eb;
   font-weight: 200;
-  font-size: 1.15rem;
+  font-size: 1rem;
   max-width: 100%;
   line-height: 1.5;
 }
