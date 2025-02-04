@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import heroImage from '../assests/shinto-hero.jpg'
+import heroImage from '../assests/shinto-hero copy.jpg'
 
 const Hero = () => {
   const [offsetY, setOffsetY] = useState(0)
